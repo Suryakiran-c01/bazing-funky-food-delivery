@@ -1,0 +1,6 @@
+{
+  "name": "BAZINGA – Funky Food Delivery App",
+  "description": "Funky, energetic food delivery platform for BAZINGA Cafe with street-food vibes, pop-art illustrations, live order tracking, and awesome bites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
